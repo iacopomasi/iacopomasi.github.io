@@ -4,6 +4,8 @@ layout: default
 
 ## Publications <a name="publications"></a>
 
+For a full list of publications see [my Google Scholar profile](https://scholar.google.com/citations?user=t4zrDEAAAAAJ&hl=en).
+
 ### Journals 
 
 + S. Riaz, Z. Ali, U. Park, J. Choi, **I. Masi**, P. Natarajan, ``Age-invariant face recognition using gender specific 3D aging modeling,'' _Multimedia Tools and Applications (MTAP)_, 2019
