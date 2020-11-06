@@ -10,7 +10,6 @@ Corso in collaborazione con il [Prof. Andrea Sterbini](https://twiki.di.uniroma1
 
 ### Diario delle Lezioni e Materiale
 
-
 * **ven 6 nov, 8-10**: 
   - introduzione del docente, motivazione python;
   - recap su oggetti mutabili, immutabili, passaggio per riferimento; 
@@ -20,3 +19,5 @@ Corso in collaborazione con il [Prof. Andrea Sterbini](https://twiki.di.uniroma1
   - **Materiale**: 
     - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/UdsbDxM6ogLhJuM3Pui772dX3xdBoA3jIk9P5I_t3rKE9JQEOm0LnXbtDM9wI1rW.6Y4PUQ8cLbd3tqPW)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1S_1tGkmgeHiRlVl6z0HXTGVM1LT14Vfp?usp=sharing)
+
+<sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
