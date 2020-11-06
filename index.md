@@ -3,5 +3,4 @@
 Ciao,
 Welcome · Benvenuto · خوش آمدید · 欢迎 · Bienvenida · ברוך הבא · ترحيب · Accueil · Chào mừng · 歓迎 · добро пожаловать · Willkommen · स्वागत · 환영 · Boas-vindas · kuwakaribisha to my web-page!
 
-I am a researcher interested in computer vision. Formally, I am Research Assistant Professor at Computer Science Department, USC Viterbi School of Engineering and a Research Computer Scientist at the USC Information Sciences Institute
-
+I am Associate Professor at the University of Rome, La Sapienza and Adjunct Research Assistant Professor at the University of Southern California (USC). I am also a researcher interested in computer vision.
