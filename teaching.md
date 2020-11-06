@@ -16,3 +16,4 @@ Corso in collaborazione con il [Prof. Andrea Sterbini](https://twiki.di.uniroma1
   - encoding e decoding; files di testo, open, with, read, readline, readlines, write, context manager;
   - file binari, lavorare con bit e byte, salvare un intero su file binario, convertire "a mano" con python binario a decimale, endianness
   - cenni alla manipolazione di stringhe
+  - **Materiale**: [:camera: Zoom video + chat](https://uniroma1.zoom.us/rec/share/UdsbDxM6ogLhJuM3Pui772dX3xdBoA3jIk9P5I_t3rKE9JQEOm0LnXbtDM9wI1rW.6Y4PUQ8cLbd3tqPW) ; [:notebook_with_decorative_cover: Slides]() ; [:computer: IPython/Notebook]()
