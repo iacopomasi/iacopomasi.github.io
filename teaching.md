@@ -51,7 +51,7 @@ Altre risorse utili:
   - Disegnare su immagini/matrici (disegnare linee allineati agli assi, rettangoli, controllo per disegnare dentro matrice)
   - Cenni alla manipolazione di immagini (filp rispetto ad asse verticale e orizzontale, iterativo e funzionale)
   - **Materiale**: 
-    - [Zoom video + chat]()
+    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/c7vrbRUvUYVXiFxlZmj3bojDbnjKKJJupTF5JcNXgTzFOL1D71TZVc3hj9zCSnQR.22Ity3aMSJnxTKzi)
     - [Slides e IPython/Notebook (py,pdf,html)]()
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
