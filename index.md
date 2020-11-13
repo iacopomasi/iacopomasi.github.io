@@ -2,4 +2,4 @@
 
 Ciao,
 Welcome · Benvenuto · خوش آمدید · 欢迎 · Bienvenida · ברוך הבא · ترحيب · Accueil · Chào mừng · 歓迎 · добро пожаловать · Willkommen · स्वागत · 환영 · Boas-vindas · kuwakaribisha to my web-page!
-I am **Associate Professor** at the **University of Rome, La Sapienza** and **Adjunct Research Assistant Professor** at the **University of Southern California (USC)**. I am also a researcher interested in computer vision.
+I am **Associate Professor** at the **University of Rome, La Sapienza** and **Adjunct Research Assistant Professor** at the **University of Southern California (USC)**. I am also a researcher interested in computer vision and machine learning. I'd like to answer the question: _"How can we teach machines to see like humans do?"_
