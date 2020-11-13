@@ -6,7 +6,18 @@ layout: default
 
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
-Corso in collaborazione con il [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome)
+Il corso e' in collaborazione con lo stesso corso Canale 1 del [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome)
+
+### Libri di testo e risorse
+
+I libri di testo consigliati sono i seguenti:
+ - Allen B. Downey [Pensare in Python](https://github.com/AllenDowney/ThinkPythonItalian/raw/master/thinkpython_italian.pdf)
+ - Allen B. Downey [Thinking in Python 2nd edition (in inglese)](https://greenteapress.com/wp/think-python-2e/)
+ 
+ Altri libri (dalla corso gemmelo in inglese del [Prof. Di Ciccio](https://twiki.di.uniroma1.it/twiki/view/ACSAI/Programming/AA2021/WebHome) ):
+ - Charles Dierbach [Introduction to Computer Science Using Python: A Computational Problem-Solving Focus](https://cs.kenyon.edu/pub/Main/IntroductiontoComputerScienceIdeas/Introduction_to_Computer_Science_using_Python__A_Computational_Problem-Solving_Focus_Dierbach_2012-12-25.pdf)
+ - [Python 3 Tutorial](https://docs.python.org/3/tutorial/)
+ 
 
 ### Diario delle Lezioni e Materiale
 
