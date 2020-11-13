@@ -46,10 +46,10 @@ Altre risorse utili:
 * **ven 13 nov, 8-10**: 
   - Definizione di Matrice
   - Matrice come lista di liste
-  - Creare Matrici (vari metodi; da doppio ciclo a funzionale con map); Compoun Object; Differenza fra Shallow e Deep Copy
+  - Creare Matrici (vari metodi; da doppio ciclo a funzionale con map); Compound Object; Differenza fra Shallow e Deep Copy
   - Immagini come matrici; spazio colori RGB; sistema di riferimento con matrici
   - Disegnare su immagini/matrici (disegnare linee allineati agli assi, rettangoli, controllo per disegnare dentro matrice)
-  - Cenni alla manipolazione di immagini (filp rispetto ad asse verticale e orizzontale)
+  - Cenni alla manipolazione di immagini (filp rispetto ad asse verticale e orizzontale, iterativo e funzionale)
   - **Materiale**: 
     - [Zoom video + chat]()
     - [Slides e IPython/Notebook (py,pdf,html)]()
