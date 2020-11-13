@@ -41,7 +41,7 @@ Altre risorse utili:
   - programmazione funzionale in python (map, filter, any, all, lambda functions);
   - breve esempio di uso di iteratore zip() per unire due file;
   - **Materiale**: 
-    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/5zVZTFfwbgzN5y6nbvLpLx6-P6pMHhv7xk3rMrPztJMTtwkEZWlrUjud3FAAo_fQ.VldSBxz6cT8b_pHv)
+    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/NT92DBt9Dzjk6EM_5sRuYdWe3QxuJ3TKkIr-Du_Cvnu5Epvn3y1-I-9jHE_PjsHI.U9WK7TcH_N_lUC-w)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
 * **ven 13 nov, 8-10**: 
   - Definizione di Matrice;
@@ -51,7 +51,7 @@ Altre risorse utili:
   - Disegnare su immagini/matrici (disegnare linee allineati agli assi, rettangoli, controllo per disegnare dentro matrice);
   - Cenni alla manipolazione di immagini (flip rispetto ad asse verticale e orizzontale, iterativo e funzionale);
   - **Materiale**: 
-    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/c7vrbRUvUYVXiFxlZmj3bojDbnjKKJJupTF5JcNXgTzFOL1D71TZVc3hj9zCSnQR.22Ity3aMSJnxTKzi)
+    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/Gd7vWFPcNmr5ckbeJ03l1LVjwD3hixAgDjFTJEtxUkPNJpr_S6eGgWMxmOY-VjhF.0dPHbQlOrbD-zwKi)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
