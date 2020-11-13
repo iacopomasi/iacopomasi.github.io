@@ -43,7 +43,7 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/5zVZTFfwbgzN5y6nbvLpLx6-P6pMHhv7xk3rMrPztJMTtwkEZWlrUjud3FAAo_fQ.VldSBxz6cT8b_pHv)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
- * **ven 13 nov, 8-10**: 
+* **ven 13 nov, 8-10**: 
   - Definizione di Matrice
   - Matrice come lista di liste
   - Creare Matrici (vari metodi; da doppio ciclo a funzionale con map); Compoun Object; Differenza fra Shallow e Deep Copy
