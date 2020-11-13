@@ -17,7 +17,9 @@ I libri di testo consigliati sono i seguenti:
  Altri libri (dalla corso gemello in inglese del [Prof. Di Ciccio](https://twiki.di.uniroma1.it/twiki/view/ACSAI/Programming/AA2021/WebHome) ):
  - Charles Dierbach [Introduction to Computer Science Using Python: A Computational Problem-Solving Focus](https://cs.kenyon.edu/pub/Main/IntroductiontoComputerScienceIdeas/Introduction_to_Computer_Science_using_Python__A_Computational_Problem-Solving_Focus_Dierbach_2012-12-25.pdf)
  - [Python 3 Tutorial](https://docs.python.org/3/tutorial/)
- - PEP 8 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
+Altre risorse utili:
+ - PEP 8 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) - Come scrivere codice elegante in python
  
 
 ### Diario delle Lezioni e Materiale
