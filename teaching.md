@@ -6,7 +6,8 @@ layout: default
 
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
-Il corso e' in collaborazione con lo stesso corso Canale 1 (AL) del [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome)
+Il corso e' in collaborazione con lo stesso corso Canale 1 (AL) del [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome).
+Cerco di seguire abbastanza fortemente le sue lezioni (il canale 2 per ora e' indietro rispetto al canale 1 di una sola lezione). Seguo i soliti esempi del Prof. Sterbini, ristrutturando gli esempi secondo la mia prospettiva.
 
 ### Libri di testo e risorse
 
