@@ -54,11 +54,11 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/Gd7vWFPcNmr5ckbeJ03l1LVjwD3hixAgDjFTJEtxUkPNJpr_S6eGgWMxmOY-VjhF.0dPHbQlOrbD-zwKi)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
-    
+
 * **mar 17 nov, 10-13**: 
   - Chiarimenti enumerate e zip
   - Ancora su manipolazioni di immagini, flip verticale e orizzontale
-  - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali.
+  - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali
   - Filtro di sfocature (blurring)
   - Caso di applicazione: come sfuocare solo background similare al filtro di Zoom
   - Programmazione orientata agli oggetti
@@ -69,7 +69,5 @@ Altre risorse utili:
     - [Zoom video + chat](#)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1K5WuO_ttCGxs7wVdTkbzPgXPAcTwj7hY?usp=sharing)
     
-    
-    https://drive.google.com/drive/folders/1K5WuO_ttCGxs7wVdTkbzPgXPAcTwj7hY?usp=sharing
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
