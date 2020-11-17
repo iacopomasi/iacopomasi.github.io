@@ -21,6 +21,7 @@ I libri di testo consigliati sono i seguenti:
 
 Altre risorse utili:
  - PEP 8 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) - Come scrivere codice elegante in python
+ - PEP 257 - [Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) - Documentazione con docstring
  
 
 ### Diario delle Lezioni e Materiale
