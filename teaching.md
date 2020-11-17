@@ -32,7 +32,7 @@ Altre risorse utili:
   - file binari, lavorare con bit e byte, salvare un intero su file binario, convertire "a mano" con python binario a decimale, endianness;
   - cenni alla manipolazione di stringhe;
   - **Materiale**: 
-    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/UdsbDxM6ogLhJuM3Pui772dX3xdBoA3jIk9P5I_t3rKE9JQEOm0LnXbtDM9wI1rW.6Y4PUQ8cLbd3tqPW)
+    - [Zoom video + chat](https://drive.google.com/file/d/1Wc22pWwZt8Fj92L2uUYpV0yq1m_lkUf1/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1S_1tGkmgeHiRlVl6z0HXTGVM1LT14Vfp?usp=sharing)
 * **mart 10 nov, 10-13**: 
   - programazione funzionale e iteratori;
@@ -42,7 +42,7 @@ Altre risorse utili:
   - programmazione funzionale in python (map, filter, any, all, lambda functions);
   - breve esempio di uso di iteratore zip() per unire due file;
   - **Materiale**: 
-    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/NT92DBt9Dzjk6EM_5sRuYdWe3QxuJ3TKkIr-Du_Cvnu5Epvn3y1-I-9jHE_PjsHI.U9WK7TcH_N_lUC-w)
+    - [Zoom video + chat](#)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
 * **ven 13 nov, 8-10**: 
   - Definizione di Matrice;
@@ -52,7 +52,7 @@ Altre risorse utili:
   - Disegnare su immagini/matrici (disegnare linee allineati agli assi, rettangoli, controllo per disegnare dentro matrice);
   - Cenni alla manipolazione di immagini (flip rispetto ad asse verticale e orizzontale, iterativo e funzionale);
   - **Materiale**: 
-    - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/Gd7vWFPcNmr5ckbeJ03l1LVjwD3hixAgDjFTJEtxUkPNJpr_S6eGgWMxmOY-VjhF.0dPHbQlOrbD-zwKi)
+    - [Zoom video + chat](#)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
 
 * **mar 17 nov, 10-13** (modalita' mista): 
