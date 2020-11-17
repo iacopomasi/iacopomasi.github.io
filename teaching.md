@@ -25,8 +25,10 @@ Altre risorse utili:
 
 ### Diario delle Lezioni e Materiale
 
-Per accedere e' necessario registrarsi a questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) - compilabile solamente da studenti Sapienza.
-Ogni due o tre giorni cerco di aggiornare la lista cosi da dare accesso ai nuovi iscritti. 
+> Per accedere e' necessario registrarsi a questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) - compilabile solamente da studenti Sapienza.
+> Ogni due o tre giorni cerco di aggiornare la lista cosi da dare accesso ai nuovi iscritti. 
+
+> **Importante:** quando fate accesso ai link sottostanti assicuratevi di avere impostato su Google il vostro account Sapienza con email del tipo `nome.123456@studenti.uniroma1.it`, grazie.
 
 * **ven 6 nov, 8-10**: 
   - introduzione del docente, motivazione python;
