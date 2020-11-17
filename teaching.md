@@ -31,7 +31,7 @@ Altre risorse utili:
 
 > **Importante:** quando fate accesso ai link sottostanti assicuratevi di avere impostato su Google il vostro account Sapienza con email del tipo `nome.123456@studenti.uniroma1.it`, grazie.
 
-* **ven 6 nov, 8-10**: 
+* **ven 6 nov, 8-10** (remoto): 
   - introduzione del docente, motivazione python;
   - recap su oggetti mutabili, immutabili, passaggio per riferimento; 
   - encoding e decoding; files di testo, open, with, read, readline, readlines, write, context manager;
@@ -40,7 +40,7 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat](https://drive.google.com/file/d/1qqHxsWUlLOrxEhwFotCj4bOe8Y7FgiKW/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1S_1tGkmgeHiRlVl6z0HXTGVM1LT14Vfp?usp=sharing)
-* **mart 10 nov, 10-13**: 
+* **mart 10 nov, 10-13** (remoto): 
   - programazione funzionale e iteratori;
   - funzioni come oggetti, passare funzioni a funzioni, ritornare funzioni;
   - Iteratori e Generatori come eager and lazy evaluation;
@@ -50,7 +50,7 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat](https://drive.google.com/file/d/1VO-JZjv4v3Jk1r2m_FxYqXUTwVwNDIhE/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
-* **ven 13 nov, 8-10**: 
+* **ven 13 nov, 8-10** (remoto): 
   - Definizione di Matrice;
   - Matrice come lista di liste;
   - Creare Matrici (vari metodi; da doppio ciclo a funzionale con map); Compound Object; Differenza fra Shallow e Deep Copy;
