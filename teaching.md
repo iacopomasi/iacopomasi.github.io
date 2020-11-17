@@ -62,11 +62,10 @@ Altre risorse utili:
   - Filtro di sfocature (blurring)
   - Caso di applicazione: come sfuocare solo background similare al filtro di Zoom
   - Programmazione orientata agli oggetti
-  - Oggetti e classi in python; ereditarieta', override operatori, overloading;
-  - Attributi di istanza e di classe;
+  - Oggetti e classi in python; ereditarieta';
   - Esempio per modellare un colore non come tupla ma come classe
   - **Materiale**: 
-    - [Zoom video + chat](#)
+    - [Zoom video + chat (files da scaricare)](https://drive.google.com/drive/folders/1d_S7u0n_ko4N_xLBREyq3tg7cjbNe8F2?usp=sharing) Se il link non funziona iscriversi tramite questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) (solo per studenti Sapienza)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1K5WuO_ttCGxs7wVdTkbzPgXPAcTwj7hY?usp=sharing)
     
 
