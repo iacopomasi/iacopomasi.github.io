@@ -60,9 +60,9 @@ Altre risorse utili:
   - Ancora su manipolazioni di immagini, flip verticale e orizzontale
   - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali
   - Filtro di sfocature (blurring)
-  - Caso di applicazione: come sfuocare solo background similare al filtro di Zoom
+  - Caso di applicazione: come sfuocare solo background similare al filtro di "Zoom" e affini
   - Programmazione orientata agli oggetti
-  - Oggetti e classi in python; ereditarieta';
+  - Oggetti e classi in python; ereditarieta'
   - Esempio per modellare un colore non come tupla ma come classe
   - **Materiale**: 
     - [Zoom video + chat (files da scaricare)](https://drive.google.com/drive/folders/1d_S7u0n_ko4N_xLBREyq3tg7cjbNe8F2?usp=sharing) Se il link non funziona iscriversi tramite questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) (solo per studenti Sapienza)
