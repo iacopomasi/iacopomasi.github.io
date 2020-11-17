@@ -64,6 +64,7 @@ Altre risorse utili:
 * **mar 17 nov, 10-13** (modalita' mista): 
   - Chiarimenti enumerate e zip
   - Ancora su manipolazioni di immagini, flip verticale e orizzontale
+  - PEP 8 (code style) e PEP 257 (doc string)
   - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali
   - Filtro di sfocature (blurring)
   - Caso di applicazione: come sfuocare solo background similare al filtro di "Zoom" e affini
