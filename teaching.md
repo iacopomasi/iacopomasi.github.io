@@ -32,7 +32,7 @@ Altre risorse utili:
   - file binari, lavorare con bit e byte, salvare un intero su file binario, convertire "a mano" con python binario a decimale, endianness;
   - cenni alla manipolazione di stringhe;
   - **Materiale**: 
-    - [Zoom video + chat](https://drive.google.com/file/d/1Wc22pWwZt8Fj92L2uUYpV0yq1m_lkUf1/view?usp=sharing)
+    - [Zoom video + chat](https://drive.google.com/file/d/1qqHxsWUlLOrxEhwFotCj4bOe8Y7FgiKW/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1S_1tGkmgeHiRlVl6z0HXTGVM1LT14Vfp?usp=sharing)
 * **mart 10 nov, 10-13**: 
   - programazione funzionale e iteratori;
