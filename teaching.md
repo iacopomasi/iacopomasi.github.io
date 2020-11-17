@@ -42,7 +42,7 @@ Altre risorse utili:
   - programmazione funzionale in python (map, filter, any, all, lambda functions);
   - breve esempio di uso di iteratore zip() per unire due file;
   - **Materiale**: 
-    - [Zoom video + chat](#)
+    - [Zoom video + chat](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
 * **ven 13 nov, 8-10**: 
   - Definizione di Matrice;
