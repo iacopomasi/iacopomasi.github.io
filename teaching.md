@@ -55,7 +55,7 @@ Altre risorse utili:
     - [Zoom video + chat](https://uniroma1.zoom.us/rec/share/Gd7vWFPcNmr5ckbeJ03l1LVjwD3hixAgDjFTJEtxUkPNJpr_S6eGgWMxmOY-VjhF.0dPHbQlOrbD-zwKi)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
 
-* **mar 17 nov, 10-13**: 
+* **mar 17 nov, 10-13** (modalita' mista): 
   - Chiarimenti enumerate e zip
   - Ancora su manipolazioni di immagini, flip verticale e orizzontale
   - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali
