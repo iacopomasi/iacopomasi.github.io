@@ -25,6 +25,8 @@ Altre risorse utili:
 
 ### Diario delle Lezioni e Materiale
 
+Per accedere e' necessario registrarsi a questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) - (solo compilabile da studenti Sapienza).
+
 * **ven 6 nov, 8-10**: 
   - introduzione del docente, motivazione python;
   - recap su oggetti mutabili, immutabili, passaggio per riferimento; 
@@ -42,7 +44,7 @@ Altre risorse utili:
   - programmazione funzionale in python (map, filter, any, all, lambda functions);
   - breve esempio di uso di iteratore zip() per unire due file;
   - **Materiale**: 
-    - [Zoom video + chat](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
+    - [Zoom video + chat](https://drive.google.com/file/d/1VO-JZjv4v3Jk1r2m_FxYqXUTwVwNDIhE/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
 * **ven 13 nov, 8-10**: 
   - Definizione di Matrice;
@@ -52,7 +54,7 @@ Altre risorse utili:
   - Disegnare su immagini/matrici (disegnare linee allineati agli assi, rettangoli, controllo per disegnare dentro matrice);
   - Cenni alla manipolazione di immagini (flip rispetto ad asse verticale e orizzontale, iterativo e funzionale);
   - **Materiale**: 
-    - [Zoom video + chat](#)
+    - [Zoom video + chat](https://drive.google.com/file/d/1HNc0bh6wUtX7RI33JINpQvEqboLwgt0t/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
 
 * **mar 17 nov, 10-13** (modalita' mista): 
@@ -65,7 +67,7 @@ Altre risorse utili:
   - Oggetti e classi in python; ereditarieta'
   - Esempio per modellare un colore non come tupla ma come classe
   - **Materiale**: 
-    - [Zoom video + chat (files da scaricare)](https://drive.google.com/drive/folders/1d_S7u0n_ko4N_xLBREyq3tg7cjbNe8F2?usp=sharing) Se il link non funziona iscriversi tramite questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) (solo per studenti Sapienza)
+    - [Zoom video + chat (files da scaricare)](https://drive.google.com/drive/folders/1d_S7u0n_ko4N_xLBREyq3tg7cjbNe8F2?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1K5WuO_ttCGxs7wVdTkbzPgXPAcTwj7hY?usp=sharing)
     
 
