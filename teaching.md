@@ -68,7 +68,7 @@ Altre risorse utili:
   - Ancora su manipolazioni di immagini, flip verticale e orizzontale
   - PEP 8 (code style) e PEP 257 (doc string)
   - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali
-  - Filtro di sfocature (blurring)
+  - Filtro di sfocatura (blurring)
   - Caso di applicazione: come sfuocare solo background similare al filtro di "Zoom" e affini
   - Programmazione orientata agli oggetti
   - Oggetti e classi in python; ereditarieta'
@@ -76,6 +76,17 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat (files da scaricare)](https://drive.google.com/drive/folders/1d_S7u0n_ko4N_xLBREyq3tg7cjbNe8F2?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1K5WuO_ttCGxs7wVdTkbzPgXPAcTwj7hY?usp=sharing)
+    
+* **ven 20 nov, 8-10** (modalita' mista): 
+  - Ancora sulla programmazione ad oggetti
+  - Ripasso su cosa e' una classe; cosa e' un oggetto, attributi e metodi; classi in Python
+  - Sottoclassi, ereditarieta', overloading degli operatori
+  - Attributi di classi e attributi di instanza oggetto; metodi di classe
+  - Breve cenni sui Decoratori in Python (con riferimento a `@classmethod`)
+  - Gestione delle eccezioni in Python, costrutto `try except finally`.
+  - **Materiale**: 
+    - Zoom video + chat (in attesa di accesso al file dal aula Cabibbo)
+    - [Slides e IPython/Notebook (py,pdf,html)](#)
     
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
