@@ -66,7 +66,7 @@ Altre risorse utili:
 * **mar 17 nov, 10-13** (modalita' mista): 
   - Chiarimenti enumerate e zip
   - Ancora su manipolazioni di immagini, flip verticale e orizzontale
-  - PEP 8 (code style) e PEP 257 (doc string)
+  - `PEP 8` (code style) e `PEP 257` (doc string)
   - Ruotare una immagine, clockwise and counterclockwise; trasporre una matrice; versioni iterative e funzionali
   - Filtro di sfocatura (blurring)
   - Caso di applicazione: come sfuocare solo background similare al filtro di "Zoom" e affini
@@ -86,7 +86,7 @@ Altre risorse utili:
   - Gestione delle eccezioni in Python, costrutto `try except finally`.
   - **Materiale**: 
     - Zoom video + chat (in attesa di accesso al file dal aula Cabibbo)
-    - [Slides e IPython/Notebook (py,pdf,html)](#)
+    - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1zemFeWZaw9RkhQIR6P8O2pvuoqHAs9Dj?usp=sharing)
     
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
