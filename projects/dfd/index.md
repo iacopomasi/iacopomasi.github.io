@@ -26,7 +26,7 @@ If you find our paper useuful, please cite it as:
 
 ```latex
     @inproceedings{masi2020two,
-    title={{T}wo-branch {R}ecurrent {N}etwork for {I}solating {D}eepfakes in {V}ideos},
+    title={ Two-branch Recurrent Network for Isolating Deepfakes in Videos},
     author={Masi, Iacopo and Killekar, Aditya and Mascarenhas, Royston Marian and Gurudatt, Shenoy Pratik and AbdAlmageed, Wael},
     booktitle={European Conference on Computer Vision (ECCV)},
     year={2020}
