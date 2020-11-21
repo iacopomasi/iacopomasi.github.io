@@ -8,6 +8,9 @@ I am a computer scientist and professor interested in solving the `computer visi
 In other words, giving machines the gift of "intelligence" when asked to interpret visual data---turning numerical pixels into high-level semantics. I also sympathize with the [slow science movement](http://slow-science.org) when applied to perform science in computer vision and machine learning.
 
 
+### Research Spotlight
+#### Deepfake Detection
+
 ## Publications
 For a full list of publications you can also check [Google Scholar](https://scholar.google.com/citations?user=t4zrDEAAAAAJ&hl=en)
 
