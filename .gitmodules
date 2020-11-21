@@ -1,0 +1,4 @@
+[submodule "projects/structure_via_consensus"]
+	path = projects/structure_via_consensus
+	url = https://github.com/isi-vista/structure_via_consensus.git
+	branch = web
