@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Teaching (ita) <a name="teaching"></a>
+## Teaching (in 🇮🇹) <a name="teaching"></a>
 
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
