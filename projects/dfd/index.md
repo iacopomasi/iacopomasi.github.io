@@ -1,5 +1,5 @@
 ## Two-branch Recurrent Network for Isolating Deepfakes in Videos
-<img src="https://www.isi.edu/images/isi-logo.jpg" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/eccv20.png" width="90"/>
+<img src="https://www.isi.edu/images/isi-logo.jpg" width="200"/>&nbsp;&nbsp;<img src="images/eccv20.png" width="90"/>
  
 
 [![report](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/pdf/2008.03412)
