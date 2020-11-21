@@ -1,5 +1,5 @@
 ---
-layout: default_no_header
+layout: default
 ---
 
 ## Teaching (in 🇮🇹) <a name="teaching"></a>
