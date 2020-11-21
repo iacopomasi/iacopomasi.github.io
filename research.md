@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Research <a name="research"></a>
-Page under construction. 
-For my list of publications please see [Google Scholar](https://scholar.google.com/citations?user=t4zrDEAAAAAJ&hl=en)
+## Research <a name="research"></a>
+I am a computer scientist interested in solving the "computer vision problem": giving machines the gift of observing the world through eyes (cameras) like humans do. In other words, giving machines the gift of intelligence when asked to interpret visual data---turning numerical pixels into high-level semantics. I also sympathzie for the [slow science movement](http://slow-science.org) when applied to perform science in computer vision and machine learning.
 
-# Publications
+
+## Publications
+For a full list of publications you can also check [Google Scholar](https://scholar.google.com/citations?user=t4zrDEAAAAAJ&hl=en)
+
 <script src="https://bibbase.org/show?bib=https://dblp.org/pid/99/8617.bib&jsonp=1"></script>
