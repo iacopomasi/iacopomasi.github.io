@@ -3,7 +3,9 @@ layout: default
 ---
 
 ## Research <a name="research"></a>
-I am a computer scientist and professor interested in solving the "computer vision problem": giving machines the gift of observing the world through eyes (cameras) like humans do. In other words, giving machines the gift of "intelligence" when asked to interpret visual data---turning numerical pixels into high-level semantics. I also sympathize with the [slow science movement](http://slow-science.org) when applied to perform science in computer vision and machine learning.
+I am a computer scientist and professor interested in solving the `computer vision problem`: giving machines the gift of observing the world through eyes (cameras) like humans do. 
+
+In other words, giving machines the gift of "intelligence" when asked to interpret visual data---turning numerical pixels into high-level semantics. I also sympathize with the [slow science movement](http://slow-science.org) when applied to perform science in computer vision and machine learning.
 
 
 ## Publications
