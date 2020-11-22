@@ -8,7 +8,9 @@ I am a computer scientist and professor interested in solving the `computer visi
 In other words, interpret visual data so to turn numerical pixels into high-level semantics. I also sympathize with the [slow science movement](http://slow-science.org) when applied to science in computer vision and machine learning.
 
 ### Recent Research Spotlight
+#### Enforcing smoothness for face segmentation
 <a href="projects/structure_via_consensus"><img src="https://iacopomasi.github.io/projects/structure_via_consensus/imgs/teaser.png"></a>
+#### Isolating Deepfake videos
 <a href="projects/dfd"><img src="projects/dfd/images/logo.png"></a>
 
 ## Publications
