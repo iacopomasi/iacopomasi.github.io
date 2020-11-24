@@ -88,5 +88,17 @@ Altre risorse utili:
     - Zoom video + chat (in attesa di accesso al file dal aula Cabibbo)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1zemFeWZaw9RkhQIR6P8O2pvuoqHAs9Dj?usp=sharing)
     
-
+* **mar 24 nov, 10-13** (modalita' mista): 
+  - Chiarimento su `HW6`
+  - Chiarimento su overloading operatore `__eq__`
+  - Package and module in python; come python cerca i moduli; `sys.path`
+  - «Libreria» di elaborazione immagini con oggetti come un package da usare
+  - Uso di decoratri per snellire il codice
+  - Analisi della libreria e digressione sulle scelte di progettazione 
+  - Il concetto di ricorsione; strutture dati coda (queue) e pila (stack); stack di un programma
+  - Fibonacci ricorsivo e albero di ricorsione
+  - **Materiale**: 
+    - Zoom video + chat (in attesa di accesso al file dal aula Cabibbo)
+    - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1rGUf3oZR_TYthbKbDr7tSpTdlR3-B3Oo?usp=sharing)
+    
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
