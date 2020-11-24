@@ -85,7 +85,7 @@ Altre risorse utili:
   - Breve cenni sui Decoratori in Python (con riferimento a `@classmethod`)
   - Gestione delle eccezioni in Python, costrutto `try except finally`.
   - **Materiale**: 
-    - Zoom video + chat (in attesa di accesso al file dal aula Cabibbo)
+    - [Zoom video + chat](https://drive.google.com/drive/folders/164zu_5tOR1xafp4Ve0kzYjIvPY3dKTAM?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1zemFeWZaw9RkhQIR6P8O2pvuoqHAs9Dj?usp=sharing)
     
 * **mar 24 nov, 10-13** (modalita' mista): 
@@ -98,7 +98,7 @@ Altre risorse utili:
   - Il concetto di ricorsione; strutture dati coda (queue) e pila (stack); stack di un programma
   - Fibonacci ricorsivo e albero di ricorsione
   - **Materiale**: 
-    - Zoom video + chat (in attesa di accesso al file dal aula Cabibbo)
+    - [Zoom video + chat](https://drive.google.com/drive/folders/16_fS02bfIv9e-5wE8JWu74QHOA46dexf?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1rGUf3oZR_TYthbKbDr7tSpTdlR3-B3Oo?usp=sharing)
     
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
