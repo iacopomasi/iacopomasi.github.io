@@ -100,5 +100,16 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat](https://drive.google.com/drive/folders/16_fS02bfIv9e-5wE8JWu74QHOA46dexf?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1rGUf3oZR_TYthbKbDr7tSpTdlR3-B3Oo?usp=sharing)
+
+* **ven 27 nov, 8-10** (modalita' mista): 
+  - Precisazioni su come affrontare `HW`
+  - Complessita' Fibonacci naive (ingenuo, versione di base); crescita esponenziale, esempio dei chicchi di grano su scacchiera
+  - Fibonacci con "memoization"; cenni su dynamic programming (DP); Fibonacci iterativo
+  - Sottoproblemi + caso base; divide and conquer
+  - Esempio di uso di ricorsione per stampare una stringa senza for loop
+  - Cenni al filesystem come albero di ricorsione 
+  - **Materiale**: 
+    - [Zoom video + chat](https://drive.google.com/drive/folders/17ao2iZVjk30RmU3c2xop8vyMHiH81I3d?usp=sharing)
+    - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1oUpmkUP4bS7Fme_h2a2kZjNqheB5-0g6?usp=sharing)
     
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
