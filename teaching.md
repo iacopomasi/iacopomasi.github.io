@@ -4,6 +4,13 @@ layout: default
 
 ## Teaching (in 🇮🇹) <a name="teaching"></a>
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FRome&amp;src=aWFjb3BvLm1hc2lAdW5pcm9tYTEuaXQ&amp;src=ZW4uaXRhbGlhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aWFjb3BvLm1hc2lAZ21haWwuY29t&amp;src=bWFzaUBkaS51bmlyb21hMS5pdA&amp;color=%23039BE5&amp;color=%230B8043&amp;color=%239E69AF&amp;color=%23E67C73&amp;showTitle=1&amp;mode=MONTH&amp;showPrint=0&amp;showCalendars=0" style="border-width:0" width="500" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Teaching Philosophy
+I strongly believe in Marshall McLuhan's words: 
+> Anyone who tries to make a distinction between education and entertainment doesn't know the first thing about either.
+In this sense, as an educator, I will do my best to ensure that my classes are as enjoyable as possible.
+
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
 Il corso e' in collaborazione con lo stesso corso Canale 1 (AL) del [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome).
