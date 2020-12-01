@@ -13,6 +13,10 @@ In this sense, as an educator, I will do my best to ensure that my classes are a
 
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
+#### Mio codice OPIS `3IP2YMX0` <a name="opis"></a>
+
+Inserirlo nella valutazione dei docenti seguendo [questa guida](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2020_21.pdf).
+
 Il corso e' in collaborazione con lo stesso corso Canale 1 (AL) del [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome).
 Cerco di seguire le sue lezioni (il canale 2 per ora e' indietro rispetto al canale 1 di una sola lezione). Seguo i soliti esempi del Prof. Sterbini, ristrutturando gli esempi secondo la mia prospettiva.
 
@@ -119,4 +123,17 @@ Altre risorse utili:
     - [Zoom video + chat](https://drive.google.com/drive/folders/17ao2iZVjk30RmU3c2xop8vyMHiH81I3d?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1oUpmkUP4bS7Fme_h2a2kZjNqheB5-0g6?usp=sharing)
     
+* **mar 01 dic, 10-13** (modalita' mista): 
+  - Valutazione docente, codice [`OPIS`](#opis)
+  - Breve cenno su **non** modificare moduli nel HW
+  - Ancora su ricorsione:
+    - Riassumere come stampare stringa carattere per carattere senza for
+    - Espressioni Return and Pass
+    - Filesystem come albero di ricorsione
+    - Stringa palindroma (iterativa, ricorsiva)
+    - Albero binario, ricerca in un albero, debug con `pudb` della ricerca
+    - **Materiale**: 
+  - [Zoom video + chat](https://drive.google.com/drive/folders/18LeXKag56zYoACzx4PwJbS6_6LwyOmY8?usp=sharing)
+  - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1Pnve6ZNz0s2EgKJf1kmKQLeSvEHZIhn3?usp=sharing)
+
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
