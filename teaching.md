@@ -13,7 +13,11 @@ In this sense, as an educator, I will do my best to ensure that my classes are a
 
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
-#### Mio codice OPIS `3IP2YMX0` <a name="opis"></a>
+#### Codice OPIS <a name="opis"></a>
+
+Il mio codice OPIS |
+--- |
+`3IP2YMX0`  | 
 
 Inserirlo nella valutazione dei docenti seguendo [questa guida](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2020_21.pdf).
 
