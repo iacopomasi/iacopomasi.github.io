@@ -11,7 +11,6 @@ I strongly believe in Marshall McLuhan's words:
 
 In this sense, as an educator, I will do my best to ensure that my classes are as enjoyable as possible.
 
-### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
 #### Codice OPIS per valutazione didattica  <a name="opis"></a>
 
@@ -19,10 +18,10 @@ Il mio codice OPIS |
 --- |
 `3IP2YMX0`  | 
 
-Seguire le istruzioni a [questo link](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2020_21.pdf
-)
 
 Inserirlo nella valutazione dei docenti seguendo [questa guida](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2020_21.pdf).
+
+### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
 Il corso e' in collaborazione con lo stesso corso Canale 1 (AL) del [Prof. Andrea Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome).
 Cerco di seguire le sue lezioni (il canale 2 per ora e' indietro rispetto al canale 1 di una sola lezione). Seguo i soliti esempi del Prof. Sterbini, ristrutturando gli esempi secondo la mia prospettiva.
