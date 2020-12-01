@@ -13,7 +13,7 @@ In this sense, as an educator, I will do my best to ensure that my classes are a
 
 ### Fondamenti di Programmazione AA 2020-2021, Canale 2 (MZ)
 
-#### Codice OPIS <a name="opis"></a>
+#### Codice OPIS per valutazione didattica  <a name="opis"></a>
 
 Il mio codice OPIS |
 --- |
