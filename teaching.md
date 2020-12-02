@@ -132,11 +132,11 @@ Altre risorse utili:
 * **mar 01 dic, 10-13** (modalita' mista): 
   - Valutazione docente, codice [`OPIS`](#opis)
   - Breve cenno su **non** modificare moduli nel HW
-  - [Ricorsione] Riassumere come stampare stringa carattere per carattere senza for
-  - [Ricorsione] Espressioni Return and Pass
-  - [Ricorsione] Filesystem come albero di ricorsione
-  - [Ricorsione] Stringa palindroma (iterativa, ricorsiva)
-  - [Ricorsione] Albero binario, ricerca in un albero, debug con `pudb` della ricerca
+  - _[Ricorsione]_ Riassumere come stampare stringa carattere per carattere senza for
+  - _[Ricorsione]_ Espressioni Return and Pass
+  - _[Ricorsione]_ Filesystem come albero di ricorsione
+  - _[Ricorsione]_ Stringa palindroma (iterativa, ricorsiva)
+  - _[Ricorsione]_ Albero binario, ricerca in un albero, debug con `pudb` della ricerca
   - **Materiale**: 
     - [Zoom video + chat](https://drive.google.com/drive/folders/18LeXKag56zYoACzx4PwJbS6_6LwyOmY8?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1Pnve6ZNz0s2EgKJf1kmKQLeSvEHZIhn3?usp=sharing)
