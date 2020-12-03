@@ -57,7 +57,7 @@ Altre risorse utili:
   - file binari, lavorare con bit e byte, salvare un intero su file binario, convertire "a mano" con python binario a decimale, endianness;
   - cenni alla manipolazione di stringhe;
   - **Materiale**: 
-    - [Zoom video + chat](https://drive.google.com/file/d/1qqHxsWUlLOrxEhwFotCj4bOe8Y7FgiKW/view?usp=sharing)
+    - [Zoom video + chat](https://drive.google.com/drive/folders/1kR1FYy_AyNrG_nIVJ-eFxCM32XTRrcO2?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1S_1tGkmgeHiRlVl6z0HXTGVM1LT14Vfp?usp=sharing)
 * **mart 10 nov, 10-13** (remoto): 
   - programazione funzionale e iteratori;
@@ -67,7 +67,7 @@ Altre risorse utili:
   - programmazione funzionale in python (map, filter, any, all, lambda functions);
   - breve esempio di uso di iteratore zip() per unire due file;
   - **Materiale**: 
-    - [Zoom video + chat](https://drive.google.com/file/d/1VO-JZjv4v3Jk1r2m_FxYqXUTwVwNDIhE/view?usp=sharing)
+    - [Zoom video + chat](https://drive.google.com/drive/folders/1A0PYH9HBlRbQDL2LsVvVO2u0savF9Xke?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/10BAlY4GGOraEHXcEUWYAhUKRCHDbiDbf?usp=sharing)
 * **ven 13 nov, 8-10** (remoto): 
   - Definizione di Matrice;
@@ -77,7 +77,7 @@ Altre risorse utili:
   - Disegnare su immagini/matrici (disegnare linee allineati agli assi, rettangoli, controllo per disegnare dentro matrice);
   - Cenni alla manipolazione di immagini (flip rispetto ad asse verticale e orizzontale, iterativo e funzionale);
   - **Materiale**: 
-    - [Zoom video + chat](https://drive.google.com/file/d/1HNc0bh6wUtX7RI33JINpQvEqboLwgt0t/view?usp=sharing)
+    - [Zoom video + chat](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1kGQ5oxxBISpHu2lX1_1LVgZPtr8iLz4X?usp=sharing)
 
 * **mar 17 nov, 10-13** (modalita' mista): 
