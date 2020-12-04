@@ -105,7 +105,7 @@ Altre risorse utili:
     - [Zoom video + chat](https://drive.google.com/drive/folders/164zu_5tOR1xafp4Ve0kzYjIvPY3dKTAM?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1zemFeWZaw9RkhQIR6P8O2pvuoqHAs9Dj?usp=sharing)
     
-* **mar 24 nov, 10-13** (modalita' mista): 
+* **mar 24 nov, 10-13** (modalita' mista): <a name="imagemat"></a>
   - Chiarimento su `HW6`
   - Chiarimento su overloading operatore `__eq__`
   - Package and module in python; come python cerca i moduli; `sys.path`
@@ -140,5 +140,18 @@ Altre risorse utili:
   - **Materiale**: 
     - [Zoom video + chat](https://drive.google.com/drive/folders/18LeXKag56zYoACzx4PwJbS6_6LwyOmY8?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1Pnve6ZNz0s2EgKJf1kmKQLeSvEHZIhn3?usp=sharing)
+
+* **ven 4 dic, 8-10** (modalita' mista):
+  - Filosofia di studio e sulla preparazione all'esame
+  - Annuncio che faccio lezione anche al canale 2
+  - Come creare un iteratore alla classe [`imagemat`](#imagemat) per modellare matrici
+  - Analisi di come funziona `TraceRecursion` del [Prof. Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome)
+  - Breve recap di Iterator, Iterable, Generator; funzioni con argomenti variabili `(args, kwargs)`
+  - _Ricorsione_ Enumerare (e ottenere) le permutazioni di un insieme come problema ricorsivo
+  - _Ricorsione_ Ricerca in profondita' (depth-first-search) `DFS` (pre/in/post order) su albero binario
+  - _Ricorsione_ Espressioni aritmetiche come albero binario (navigarle in pre/in/post)
+  - **Materiale**: 
+    - [Zoom video + chat](https://drive.google.com/drive/folders/1SA733Rp8ej5OBQAARZmkHzn89rY3kDok?usp=sharing)
+    - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1pZWdzBM11_Kgf5fzegqO-TBb2Qg1tw_h?usp=sharing)
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](mailto:masi@di.uniroma1.it) cosi aggiorno il materiale, grazie.</sub>
