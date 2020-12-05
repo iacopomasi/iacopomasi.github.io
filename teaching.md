@@ -13,6 +13,5 @@ In this sense, as an educator, I will do my best to ensure that my classes are a
 
 ### Courses
 This year I teach:
-  - [Foundations of coding in python](fdp)
-  - Computer Architecture 
-   
+  - [Fondamenti di Programmazione 🇮🇹](fdp) (Foundations of coding - python)
+  - Computer Architecture
