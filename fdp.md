@@ -170,4 +170,6 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
     - [Zoom video + chat](https://drive.google.com/drive/folders/1SA733Rp8ej5OBQAARZmkHzn89rY3kDok?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1pZWdzBM11_Kgf5fzegqO-TBb2Qg1tw_h?usp=sharing)
 
+* ~~**mar 8 dic, 8-10**~~  (Festa Immacolata Concezione)
+
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](contact) cosi aggiorno il materiale, grazie.</sub>
