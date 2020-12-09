@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-
 section {
     width: 800px;
     float: right;
@@ -19,7 +18,7 @@ a:hover, a:focus{
 }
 
 header {
-    width: 315px;
+    width: 800px;
     -webkit-font-smoothing:subpixel-antialiased
 }
 
@@ -30,7 +29,7 @@ header ul {
     background: #f4f4f4;
     border-radius: 5px;
     border: 1px solid #e0e0e0;
-    width: 315px
+    width: 800px
 }
 
 header li {
@@ -40,6 +39,12 @@ header li {
   height: 40px;
 }
 
+header ul li + li + li {
+  width: 110px;
+  float: left;
+  border-right: 1px solid #e0e0e0;
+  height: 40px;
+}
 p {
   text-align: justify;
   text-justify: inter-word;

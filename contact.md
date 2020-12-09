@@ -9,4 +9,4 @@ layout: default
 Iacopo Masi <br/><br/>
 [Sapienza University of Rome](https://www.uniroma1.it/en) <br/>
 [Department of Computer Science](http://di.uniroma1.it) <br/>
-[email at Sapienza](mailto:masi@di.niroma1.it) | [email at USC](mailto:iacopoma@usc.edu)  <br/>
+[email at Sapienza](mailto:masi@di.uniroma1.it) | [email at USC](mailto:iacopoma@usc.edu)  <br/>
