@@ -1,3 +1,7 @@
 
 projects/structure_via_consensus
 *.scssc
+_site
+Gemfile
+Gemfile.lock
+.gitignore
