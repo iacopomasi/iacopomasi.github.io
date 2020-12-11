@@ -139,6 +139,7 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
   - Complessita' Fibonacci naive (ingenuo, versione di base); crescita esponenziale, esempio dei chicchi di grano su scacchiera
   - Fibonacci con "memoization"; cenni su dynamic programming (DP); Fibonacci iterativo
   - Sottoproblemi + caso base; divide and conquer
+  - `callable` objects in python and the overloading of `__call__`
   - Esempio di uso di ricorsione per stampare una stringa senza for loop
   - Cenni al filesystem come albero di ricorsione 
   - **Materiale**: 
@@ -170,6 +171,19 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
     - [Zoom video + chat](https://drive.google.com/drive/folders/1SA733Rp8ej5OBQAARZmkHzn89rY3kDok?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1pZWdzBM11_Kgf5fzegqO-TBb2Qg1tw_h?usp=sharing)
 
-* ~~**mar 8 dic, 8-10**~~  (Festa Immacolata Concezione)
+* ~~**mar 8 dic, 10-13**~~  (Festa Immacolata Concezione)
+
+* **ven 11 dic, 8-10** (modalita' mista):
+  - Recap del `HW6`
+  - Consigli strategici su come affrontare gli `HW` e gestire il tempo
+  - Analisi del problema `HW6` e possibili modi per risolverlo, idee varie e schemi di soluzione
+  - Analisi dei dati forniti
+  - Ripasso di immagini/matrici come lista di liste (differenza fra accesso riga e colonna)
+  - Importanza di come si scrivere il codice e il suo stile
+  - Analisi nel dettaglio della soluzione e del codice dello studente Simone Sestito (`1937764`). Lo ringrazio vivamente per aver fornito il suo codice.
+  - Cenni a DAG (Direct Acyclic Graph)
+  - **Materiale**: 
+    - [Zoom video + chat](https://drive.google.com/drive/folders/1regFUbAB6coipR6SDdKEbiyKV8qlN2tu?usp=sharing)
+    - [Slides (pdf)](https://drive.google.com/drive/folders/1RXFkXgM6_rilh53ftMhFujCuzlxi0xOU?usp=sharing)
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](contact) cosi aggiorno il materiale, grazie.</sub>
