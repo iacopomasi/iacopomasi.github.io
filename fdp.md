@@ -180,7 +180,7 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
   - Analisi dei dati forniti
   - Ripasso di immagini/matrici come lista di liste (differenza fra accesso riga e colonna)
   - Importanza di come si scrivere il codice e il suo stile
-  - Analisi nel dettaglio della soluzione e del codice dello studente Simone Sestito (`1937764`). Lo ringrazio vivamente per aver fornito il suo codice.
+  - Analisi nel dettaglio della soluzione e del codice dello studente [Simone Sestito](http://simonesestito.com) (`1937764`). Lo ringrazio vivamente per aver fornito il suo codice.
   - Cenni a DAG (Direct Acyclic Graph)
   - **Materiale**: 
     - [Zoom video + chat](https://drive.google.com/drive/folders/1regFUbAB6coipR6SDdKEbiyKV8qlN2tu?usp=sharing)
