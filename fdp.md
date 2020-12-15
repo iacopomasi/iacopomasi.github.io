@@ -186,4 +186,21 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
     - [Zoom video + chat](https://drive.google.com/drive/folders/1regFUbAB6coipR6SDdKEbiyKV8qlN2tu?usp=sharing)
     - [Slides (pdf)](https://drive.google.com/drive/folders/1RXFkXgM6_rilh53ftMhFujCuzlxi0xOU?usp=sharing)
 
+* **mar 15 dic, 10-13** (modalita' mista):
+  - Ripasso su `callable` objects
+  - Ripasso su `*args, **kwargs` 
+  - Un nostro `defaultdict` (usare con attenzione e cautela)
+  - Chiarimenti aggiuntivi su `TraceRecurision` (basati su `__call__`)
+  - Espressioni aritmetiche come albero binario
+  - Concetto di parser e grammatica
+  - Creare un parser per espressioni aritmetiche con albero binario
+  - Gestione parentesi
+  - Gestione espressione e split in token
+  - Parser completo di Espressione Aritmetiche
+  - Risoluzione e Print della espression in-order
+  - Analisi soluzione di `HW6` codice Prof. Sterbini
+  - **Materiale**: 
+    - Zoom video (in attesa di caricamento Aula Cabibbo - non riesco ad accedere al file)
+    - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1jc-nDPx3sp_MbgcHaTQ9DJOTzVx9OwRG?usp=sharing)
+
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](contact) cosi aggiorno il materiale, grazie.</sub>
