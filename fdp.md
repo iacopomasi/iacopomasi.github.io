@@ -44,7 +44,22 @@ Altra regola d'oro e' che per programmare vi serve solamente:
   - Pagine di carta + una penna o lapis su dove annotare idee o algoritmi o casi basi o degenere etc. 
   - La `vostra mente`, dedicata a voi al completo, quindi priva di [distrazioni](https://imgur.com/gallery/3uyRWGJ) quali facebook, whatsapp, messenger o qualsiasi evento asincrono che vi toglie attenzione. Evento asincrono puo' anche essere arbitrariamente il vostro cane che abbaia e vi chiede la pappa. Piu' riuscite a minimizzare le interruzioni, piu' farete progressi. Quindi regola d'oro quando studiate o programmate: chiudete il piu' possibile fonte di distrazioni da eventi esterni, vi dovete assorbire completamente nello studio. Per tenere traccia del tempo potete utilizzare un `timer`. Sia per tracciare tempo che passa sia per misurare quanto ci impiegate a risolvere gli esercizi. 
 
+Andare per piccoli passi: 
+
+**Nota Importante:** Se state passando da mondo Windows e vi volete avventurare in *nix, andate per gradi e seguite questo ordine:
+```
+1. Installazione dual-boot Win-Linux (occhio a non rovinare l'installazione Windows).
+2. Prendere confidenza con distro Linux scelta 
+3. Sapere interagire col terminale: un test per capire se uno e' a suo agio con il terminale
+   e' rispondere alla seguente domanda
+   "Se ti e' dato un computer che ha solo il terminale senza GUI, ci sai lavorare?"
+   Se la risp e' si puoi andare avanti; 
+4. Passare a programmare in Spyder e quando si e' sicuri, passare ad
+   editor piu' tosti come Emacs
+```
+
 Settings e Tools:
+
   - **[Sistema Operativo]** <ins>E' fortemente consigliato</ins> l'uso di sistemi [*nix-based](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg) quali GNU/Linux, MacOSX. <ins>Prima iniziate ad usare sistemi *nix-based e meglio e', meno problemi avrete nella vostra carriera. Quindi consiglio e' INIZIATE ORA subito che siete giovani!</ins>
 Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Debian quali [Debian](http://www.debian.org), [Ubuntu](https://www.ubuntu-it.org) o [Mint](https://linuxmint.com) (in ordine di difficolta' discendente). Potete usare Windows ma non e' consigliato e cmq c'e' sempre opzione dual-boot con Linux.
  - **[Bash Linux primer]** Per muoversi abilmente in un sistema *nix e' essenziale avere confidenza con il terminale. Solitamente un interprete di base per il terminale (un po' come interprete `python`) e' interprete di comandi da terminale [`bash - Bourne Again SHell`](https://www.gnu.org/software/bash/). Una guida di base per partire con bash e' [UNIX Command Line section](https://barbagroup.github.io/essential_skills_RRC/nix/setup/) di questo gruppo di ricerca. Vi trovate anche qualcosa su Python.
@@ -160,7 +175,7 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
 
 * **ven 4 dic, 8-10** (modalita' mista):
   - Filosofia di studio e sulla preparazione all'esame
-  - Annuncio che faccio lezione anche al canale 2
+  - Annuncio che faccio lezione anche al canale 1
   - Come creare un iteratore alla classe [`imagemat`](#imagemat) per modellare matrici
   - Analisi di come funziona `TraceRecursion` del [Prof. Sterbini](https://twiki.di.uniroma1.it/twiki/view/Programmazione1/AA20_21/WebHome)
   - Breve recap di Iterator, Iterable, Generator; funzioni con argomenti variabili `(args, kwargs)`
@@ -197,7 +212,7 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
   - Gestione parentesi
   - Gestione espressione e split in token
   - Parser completo di Espressione Aritmetiche
-  - Risoluzione e Print della espression in-order
+  - Risoluzione e Print della espressioni in-order
   - Analisi soluzione di `HW6` codice Prof. Sterbini
   - **Materiale**: 
     - Zoom video (in attesa di caricamento Aula Cabibbo - non riesco ad accedere al file)
