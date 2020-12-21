@@ -240,7 +240,7 @@ Seguire scrupolsamente queste istruzioni:
   - Risoluzione e Print della espressioni in-order
   - Analisi soluzione di `HW6` codice Prof. Sterbini
   - **Materiale**: 
-    - Zoom video (ho controllato, il file non compare su PC Aula Cabibbo) 
+    - [Zoom video](https://drive.google.com/drive/folders/1ALkCHCEtPASA0n94jhbB7RfxZwg-lmKT?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1jc-nDPx3sp_MbgcHaTQ9DJOTzVx9OwRG?usp=sharing)
 
 
@@ -255,7 +255,7 @@ Seguire scrupolsamente queste istruzioni:
   - Stesura del codice modulare per enumerazione mosse filetto
   - Brevissimi cenni a soluzione di `HW8`  Prof. Sterbini
   - **Materiale**: 
-    - Zoom video (spero il video sia generato stavolta, per ora non ho accesso)
+    - [Zoom video](https://drive.google.com/drive/folders/1AeV55orjMSkKA0vp4cwyzPo062UnPdQq?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1BBunJ76LsoB_LAX_MxctEWEmzO3KbuKi?usp=sharing)
 
 <sub>Per favore se trovare errori o incongruenze, [fatemi sapere](contact) cosi aggiorno il materiale, grazie.</sub>
