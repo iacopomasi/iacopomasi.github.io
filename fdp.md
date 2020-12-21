@@ -81,7 +81,28 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
 
 
 ### Ricevimento Studenti <a name="ricevimento"></a>
-TBD
+Ho attivato l'orario di ricevimento. Possiamo fare una prova per vedere se questo meccanismo che ho creato puo' funzionare. 
+<ins>Nel caso vedo che non e' flessibile abbastanza o ci sono problemi, ci potrebbero essere variazioni in futuro.</ins>
+
+La procedura per prenotare il ricevimento e' la seguente:
+
+```
+Ricevimento studenti disponibile su prenotazione. 
+30 min per ogni studente o per ogni gruppo di studente 
+che affrontano lo stesso problema/chiarimento.
+
+Il ricevimento si svolgera' tramite Zoom, **che deve essere creato dallo studente.**
+```
+
+Seguire scrupolsamente queste istruzioni:
+
+0. **Gli slot devono essere richiesti con un minimo di anticipo quindi richiesti <ins>venerdi per il martedi</ins>**
+1. Prenotare uno slot di 30 min tramite Google Calendar: [https://bit.ly/3pbU2fv](https://bit.ly/3pbU2fv)
+2. Dentro il campo "What" / "Cosa" inserire il **a) vostro nome b) argomento del chiarimento o ripasso**
+3. Inserire nel campo "where"/"dove" il link zoom che avete creato
+4. Useremo il link zoom creato per fare il ricevimento diverso da ogni studente/gruppo di studenti
+5. Ci vediamo al vostro Zoom link creato per quel orario/giorno.
+
 
 ### Diario delle lezioni con materiale:
 
