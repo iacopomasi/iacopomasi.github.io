@@ -88,6 +88,10 @@ La procedura per prenotare il ricevimento e' la seguente:
 
 ```
 Ricevimento studenti disponibile su prenotazione. 
+Cercate di essere parsimoniosi col ricevimento: usate il forum https://q2a.di.uniroma1.it
+per risolvere problemi banali o chiedere aiuto, in generale.
+Solamente se siete all perse, oppure avete bisogno di un chiarimento di
+un concetto visto a lezione, fatene uso. Vi ringrazio.
 30 min per ogni studente o per ogni gruppo di studente 
 che affrontano lo stesso problema/chiarimento.
 
