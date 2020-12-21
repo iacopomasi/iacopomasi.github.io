@@ -4,7 +4,7 @@ layout: full
 
 ## Fondamenti di Programmazione AA 20-21, Can. 2 (MZ) (in 🇮🇹)<a name="fdp"></a>
 
-#### Codice OPIS per valutazione didattica  <a name="opis"></a>
+### Codice OPIS per valutazione didattica  <a name="opis"></a>
 
 Il mio codice OPIS |
 --- |
@@ -72,14 +72,18 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
    - [Python reference](https://python-reference.readthedocs.io/en/latest/index.html)
    - [Collections](https://docs.python.org/3.8/library/collections.html) Strutture dati un piu' avanzate ma cmq disponibili in python
 
-### Diario delle Lezioni e Materiale
-
 > Per accedere e' necessario registrarsi a questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) - compilabile solamente da studenti Sapienza.
 > Cerco di aggiornare la lista il prima possibile, anche se <ins>l'accesso al materiale non è istantaneo. Una volta abilitati, riceverete un messaggio di benvenuto che vi conferma l'accesso</ins>.
 
-#### "Common pitfalls" - cose da evitare per ottenere accesso: <a name="access"></a>
+### "Common pitfalls" - cose da evitare per ottenere accesso: <a name="access"></a>
 1. Quando fate accesso ai link sottostanti <ins>assicuratevi di avere impostato su Google</ins> il vostro account Sapienza con email del tipo `cognome.123456@studenti.uniroma1.it`, grazie.
 2. Se vi siete registrati tramite [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) e immediatamente non riuscite ad accedere, <ins>per favore non richiedete accesso al documento tramite Google</ins>. Una volta iscritti, devo importare la vosta email nel gruppo: cerco di farlo il piu' velocemente possibile ma non e' istantaneo.
+
+
+### Ricevimento Studenti <a name="ricevimento"></a>
+TBD
+
+### Diario delle lezioni con materiale:
 
 * **ven 6 nov, 8-10** (remoto): 
   - introduzione del docente, motivazione python;
