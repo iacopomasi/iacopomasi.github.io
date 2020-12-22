@@ -264,14 +264,15 @@ Seguire scrupolsamente queste istruzioni:
 
 * **mar 22 dic, 10-13** (recupero, remoto)
   - Analisi dettagliata soluzione di `HW8` codice Prof. Sterbini
-  - Alcune Varianti su come risolvere parte `HW8` come enumerazione di stati di un Automa Stati Finiti
+  - Alcune varianti su come risolvere parte `HW8` come enumerazione di stati di un Automa Stati Finiti
   - Analisi complessita' dell esempio `HW8` esponenziale
-  - Da versione ricorsive a come si scrivere una versione iterative
+  - Da versione ricorsive a come si scrivere una versione iterativa
   - Ripasso su Alberi di Gioco
   - Cenni al modulo python `argparse` per gestire input complessi in ingresso
   - Breve introduzione a `Jupyter Notebook`
+  - Auguri di Buone Feste
   - **Materiale**: 
-    - [coming soon Zoom video](#)
+    - [Zoom video](https://drive.google.com/file/d/1ffe3KksTMT7my0r7GL9LERbmbdOv16Qa/view?usp=sharing)
     - [Slides e IPython/Notebook (py,pdf,html)](https://drive.google.com/drive/folders/1zpjaMUQG6jFZIoYofXqnzSl1PjHBftYk?usp=sharing)
 
 
