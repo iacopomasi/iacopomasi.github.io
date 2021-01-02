@@ -71,27 +71,22 @@ Come distribuzioni GNU/Linux vi consiglio fortemente distribuzioni basate su Deb
    - [Python tips](https://book.pythontips.com/en/latest/index.html)
    - [Python reference](https://python-reference.readthedocs.io/en/latest/index.html)
    - [Collections](https://docs.python.org/3.8/library/collections.html) Strutture dati un piu' avanzate ma cmq disponibili in python
-
-> Per accedere e' necessario registrarsi a questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) - compilabile solamente da studenti Sapienza.
-> Cerco di aggiornare la lista il prima possibile, anche se <ins>l'accesso al materiale non è istantaneo. Una volta abilitati, riceverete un messaggio di benvenuto che vi conferma l'accesso</ins>.
-
-### "Common pitfalls" - cose da evitare per ottenere accesso: <a name="access"></a>
-1. Quando fate accesso ai link sottostanti <ins>assicuratevi di avere impostato su Google</ins> il vostro account Sapienza con email del tipo `cognome.123456@studenti.uniroma1.it`, grazie.
-2. Se vi siete registrati tramite [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) e immediatamente non riuscite ad accedere, <ins>per favore non richiedete accesso al documento tramite Google</ins>. Una volta iscritti, devo importare la vosta email nel gruppo: cerco di farlo il piu' velocemente possibile ma non e' istantaneo.
+   - [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 
 ### Ricevimento Studenti <a name="ricevimento"></a>
 Ho attivato l'orario di ricevimento. Possiamo fare una prova per vedere se questo meccanismo che ho creato puo' funzionare. 
 <ins>Nel caso vedo che non e' flessibile abbastanza o ci sono problemi, ci potrebbero essere variazioni in futuro.</ins>
 
+**Nota:** Cercate di essere parsimoniosi col ricevimento: usate il [q2a forum](https://q2a.di.uniroma1.it) 
+per risolvere problemi banali o chiedere aiuto, in generale. Potete anche provare a scrivermi una email ma
+come mezzo e' molto lento (possono passare alcuni giorni priam che risponda). Nel caso in cui vi sentite persi, 
+oppure avete bisogno di un chiarimento di un concetto visto a lezione, fatene uso del ricevimento.
+
 La procedura per prenotare il ricevimento e' la seguente:
 
 ```
 Ricevimento studenti disponibile su prenotazione. 
-Cercate di essere parsimoniosi col ricevimento: usate il forum https://q2a.di.uniroma1.it
-per risolvere problemi banali o chiedere aiuto, in generale.
-Solamente se siete all perse, oppure avete bisogno di un chiarimento di
-un concetto visto a lezione, fatene uso. Vi ringrazio.
 30 min per ogni studente o per ogni gruppo di studente 
 che affrontano lo stesso problema/chiarimento.
 
@@ -109,6 +104,16 @@ Seguire scrupolsamente queste istruzioni:
 
 
 ### Diario delle lezioni con materiale:
+
+#### Accesso al materiale e cose da evitare per ottenere accesso: <a name="access"></a>
+> Per accedere e' necessario registrarsi a questo [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) - compilabile solamente da studenti Sapienza.
+> Cerco di aggiornare la lista il prima possibile, anche se <ins>l'accesso al materiale non è istantaneo. Una volta abilitati, riceverete un messaggio di benvenuto che vi conferma l'accesso</ins>.
+
+1. Quando fate accesso ai link sottostanti <ins>assicuratevi di avere impostato su Google</ins> il vostro account Sapienza con email del tipo `cognome.123456@studenti.uniroma1.it`, grazie.
+2. Per favore ***non inviate richieste di accesso tramite Google Drive*** perche' ho appena notato che la maggior parte finisce in spam e non riesco a tracciarle.
+3. Se vi siete registrati tramite [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) e immediatamente non riuscite ad accedere, <ins>per favore non richiedete accesso al documento tramite Google</ins>. Una volta iscritti, devo importare la vosta email nel gruppo: cerco di farlo il piu' velocemente possibile ma non e' istantaneo.
+
+#### Materiale:
 
 * **ven 6 nov, 8-10** (remoto): 
   - introduzione del docente, motivazione python;
