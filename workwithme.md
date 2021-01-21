@@ -9,6 +9,6 @@ layout: default
 
 ### [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfDqqM4fpUkA6bL_1Gmd8r7_yKiYmNJqohWzinQxf6gaXzPgQ/viewform) seek for applying for Ph.D. or willing to work in my group.
 
-After reviewing your case, I will share a Google Document with some info on applying for PhD positions, in case I have any.
+After completing the form, it will share a Google Document with some info on applying for PhD positions.
 
 Please, avoid to write me a directly email since it may takes long time to reply.

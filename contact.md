@@ -4,6 +4,9 @@ layout: default
 
 ## Contact  <a name="contact"></a>
 
+
+### If you are looking for PhD applications, [go to this page](workwithme)
+
 >Please note, that if you write me a direct email, I am doing my best to reply to all but it may require some time to process depending on the urgency.
 
 Iacopo Masi <br/><br/>
