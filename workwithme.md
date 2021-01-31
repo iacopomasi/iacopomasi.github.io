@@ -18,7 +18,7 @@ info on applying for PhD positions.
 Please, avoid to write me a directly email since it may takes long
 time to reply.
 
-### Tesi Triennali e Magistrali (Bachelor and Master Thesis) (in 🇮🇹)
+### Tesi Triennali/Magistrali (Bachelor/Master Thesis) (in 🇮🇹)
 E' possibile completare il proprio corso di studi prendendo una tesi
 triennale o magistrale su argomenti di ricerca che riguardano computer
 vision, machine learning, deep learning, artificial intelligence e le
