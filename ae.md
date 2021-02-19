@@ -13,8 +13,7 @@ Cerco di seguire il solito programma dei Prof. Di Ciccio e Prof. Sterbini, ristr
  - [EN] `D. A. Patterson and J. L. Hennessy. “Computer Organization and Design, The Hardware/Software Interface”, 5th edition, Morgan Kaufmann, 10 Oct 2013. ISBN: 9780124077263.`
 
 ### Orario Lezioni ed Aula
-
-A lezione fornirò **un token** per ogni lezione che dovete usare per confermare la vostra presenza su [prodigit](https://prodigit.uniroma1.it)
+⏱  A lezione fornirò **un token** per ogni lezione che dovete usare per confermare la vostra presenza su [prodigit](https://prodigit.uniroma1.it)
 
 ```
 Aula CU033 Cabibbo - Erogazione in modalità blended
@@ -26,9 +25,37 @@ Giovedì dalle 8 alle 10
 Aula Cabibbo: [Istruzioni su come accedere alle lezioni blended](https://www.phys.uniroma1.it/fisica/sites/default/files/aule/Aule_Zoom.pdf) | [Link Zoom](https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09#success)
 
 ### Google Classroom
-Per comunicare useremo  [**Google Classroom**](https://classroom.google.com/)
+🔥 Per comunicare useremo  [**Google Classroom**](https://classroom.google.com/) 🔥
 
 <ins>**Comunichero il codice per entrare in classroom alla PRIMA Lezione e continuerò a mostrarlo nelle lezioni successive**<ins>
+
+### Ricevimento Studenti <a name="ricevimento"></a>
+Ho attivato l'orario di ricevimento. Possiamo fare una prova per vedere se questo meccanismo che ho creato puo' funzionare. 
+<ins>Nel caso vedo che non e' flessibile abbastanza o ci sono problemi, ci potrebbero essere variazioni in futuro.</ins>
+
+**Nota:** Potete anche provare a scrivermi una email ma
+come mezzo e' molto lento (possono passare alcuni giorni priam che risponda). Nel caso in cui vi sentite persi, 
+oppure avete bisogno di un chiarimento di un concetto visto a lezione, fatene uso del ricevimento.
+
+La procedura per prenotare il ricevimento e' la seguente:
+
+```
+Ricevimento studenti disponibile su prenotazione. 
+30 min per ogni studente o per ogni gruppo di studente 
+che affrontano lo stesso problema/chiarimento.
+
+Il ricevimento si svolgera' tramite Zoom, **che deve essere creato dallo studente.**
+```
+
+Seguire scrupolsamente queste istruzioni:
+
+0. **Gli slot devono essere richiesti con un minimo di anticipo quindi richiesti <ins>venerdi per il martedi</ins>**
+1. Prenotare uno slot di 30 min tramite Google Calendar: [bit.ly/ae_ch2_ricev](http://bit.ly/ae_ch2_ricev)
+2. Dentro il campo "What" / "Cosa" inserire il **a) vostro nome b) argomento del chiarimento o ripasso**
+3. Inserire nel campo "where"/"dove" il link zoom che avete creato
+4. Useremo il link zoom creato per fare il ricevimento diverso da ogni studente/gruppo di studenti
+5. Ci vediamo al vostro Zoom link creato per quel orario/giorno.
+
 
 ### Programma:
 - Introduzione al calcolatore, il linguaggio del calcolatore: sistema binario
@@ -82,31 +109,4 @@ rigorosa degli argomenti tecnici.
 Il corso pone le basi per la comprensione dei moduli
 dell'insegnamento di Sistemi operativi e di tutti i corsi di
 programmazione, inclusa la programmazione di sistemi paralleli.
-
-### Ricevimento Studenti <a name="ricevimento"></a>
-Ho attivato l'orario di ricevimento. Possiamo fare una prova per vedere se questo meccanismo che ho creato puo' funzionare. 
-<ins>Nel caso vedo che non e' flessibile abbastanza o ci sono problemi, ci potrebbero essere variazioni in futuro.</ins>
-
-**Nota:** Potete anche provare a scrivermi una email ma
-come mezzo e' molto lento (possono passare alcuni giorni priam che risponda). Nel caso in cui vi sentite persi, 
-oppure avete bisogno di un chiarimento di un concetto visto a lezione, fatene uso del ricevimento.
-
-La procedura per prenotare il ricevimento e' la seguente:
-
-```
-Ricevimento studenti disponibile su prenotazione. 
-30 min per ogni studente o per ogni gruppo di studente 
-che affrontano lo stesso problema/chiarimento.
-
-Il ricevimento si svolgera' tramite Zoom, **che deve essere creato dallo studente.**
-```
-
-Seguire scrupolsamente queste istruzioni:
-
-0. **Gli slot devono essere richiesti con un minimo di anticipo quindi richiesti <ins>venerdi per il martedi</ins>**
-1. Prenotare uno slot di 30 min tramite Google Calendar: [bit.ly/ae_ch2_ricev](http://bit.ly/ae_ch2_ricev)
-2. Dentro il campo "What" / "Cosa" inserire il **a) vostro nome b) argomento del chiarimento o ripasso**
-3. Inserire nel campo "where"/"dove" il link zoom che avete creato
-4. Useremo il link zoom creato per fare il ricevimento diverso da ogni studente/gruppo di studenti
-5. Ci vediamo al vostro Zoom link creato per quel orario/giorno.
 
