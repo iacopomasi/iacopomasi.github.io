@@ -31,6 +31,15 @@ Altre risorse utili:
  - PEP 257 - [Docstring Conventions](https://www.python.org/dev/peps/pep-0257/) - Documentazione con docstring
  
 
+### Sessione Straordinaria per gli esami di profitto
+Rimando al link ufficiale per prenotazioni [Modulo iscrizione sessione straordinaria](https://www.studiareinformatica.uniroma1.it/modulo-sessione-straordinaria-appelli)
+```
+Riservata a studenti part-time, fuori corso nell’A.A. 2020-2021, studenti genitori, 
+studenti con disabilità e con D.S.A, LAUREANDI (si intende studenti con 
+tesi /tirocinio formalmente avviati),  per i nostri corsi di studio agli 
+studenti lavoratori in grado di dimostrarlo, non è a carico di Sapienza ma dello studente.
+```
+
 ### Risorse, Tools e Guide addizionali generiche e di coding in python <a name="guide"></a>
 Per essere dei buoni programmatori e muovervi velocemente col calcolatore, dovete disimparare quello che avete imparato naturalmente fino ad ora. Quindi, almeno quando programmate, cercate di minimizzare il piu' possibile uso di GUI (Graphical User Interface) e mouse, e cercate di aumentare utilizzo di:
   - Tastiera
