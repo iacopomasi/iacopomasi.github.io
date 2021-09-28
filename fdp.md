@@ -118,10 +118,6 @@ Seguire scrupolsamente queste istruzioni:
 > Il form che vi era prima è deprecato. Se volete accedere al materiale dovete iscrivervi al Google Classroom di Fondamenti di Programmazione AA21-22. Fornisco il codice a lezione.
 > Chi è iscritto al classroom dovrebbe poter accedere direttamente a questo materiale con la solita email con cui si è iscritto al  Classroom.
 
-1. Quando fate accesso ai link sottostanti <ins>assicuratevi di avere impostato su Google</ins> il vostro account Sapienza con email del tipo `cognome.123456@studenti.uniroma1.it`, grazie.
-2. Per favore ***non inviate richieste di accesso tramite Google Drive*** perche' ho appena notato che la maggior parte finisce in spam e non riesco a tracciarle.
-3. Se vi siete registrati tramite [Google Form](https://forms.gle/7BL8WBxp59WVb4ZN8) e immediatamente non riuscite ad accedere, <ins>per favore non richiedete accesso al documento tramite Google</ins>. Una volta iscritti, devo importare la vosta email nel gruppo: cerco di farlo il piu' velocemente possibile ma non e' istantaneo.
-
 #### Materiale:
 
 * **ven 6 nov, 8-10** (remoto):
