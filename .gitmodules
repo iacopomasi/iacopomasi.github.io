@@ -2,3 +2,6 @@
 	path = projects/structure_via_consensus
 	url = https://github.com/isi-vista/structure_via_consensus.git
 	branch = web
+[submodule "projects/deep_face_recognition"]
+	path = projects/deep_face_recognition
+	url = https://github.com/isi-vista/deep-face-recognition-tutorial.git

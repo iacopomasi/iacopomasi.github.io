@@ -12,3 +12,5 @@ In other words, interpret visual data so to turn numerical pixels into high-leve
 <a href="projects/structure_via_consensus"><img src="https://iacopomasi.github.io/projects/structure_via_consensus/imgs/teaser.png"></a>
 #### Isolating Deepfake videos
 <a href="projects/dfd"><img src="projects/dfd/images/logo.png"></a>
+#### Deep Face Recognition Tutorial
+<a href="projects/deep_face_recognition"><img src="projects/deep_face_recognition/face_rec.png"></a>
