@@ -118,7 +118,7 @@ Seguire scrupolsamente queste istruzioni:
 > Il form che vi era prima è deprecato. Se volete accedere al materiale dovete iscrivervi al Google Classroom di Fondamenti di Programmazione AA21-22. Fornisco il codice a lezione.
 > Chi è iscritto al classroom dovrebbe poter accedere direttamente a questo materiale con la solita email con cui si è iscritto al  Classroom.
 
->#### Nota: se volete accedere al materiale di Fondamenti di  Programmazione vecchio e nuovo mandate una email a masi@di.uniroma1.it con *esattamente* questo soggetto "[Richiesta materiale fondamenti di programmazione]" senza le "". La risposta e' automatica!
+>#### Nota: se volete accedere al materiale di Fondamenti di  Programmazione vecchio e nuovo mandate una email a [masi@di.uniroma1.it](mailto:masi@di.uniroma1.it) con *esattamente* questo soggetto "[Richiesta materiale fondamenti di programmazione]" senza le "". La risposta e' automatica!
 
 #### Materiale:
 
