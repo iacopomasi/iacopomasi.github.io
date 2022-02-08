@@ -12,6 +12,14 @@ I strongly believe in Marshall McLuhan's words:
 In this sense, as an educator, I will do my best to ensure that my classes are as enjoyable as possible.
 
 ### Courses
-This year I teach:
+
+For updated information please see [the Sapienza dashboard](https://corsidilaurea.uniroma1.it/it/users/iacopomasiuniroma1it).
+
+
+### AA21-22
+  - [Artificial Intelligence and Machine Learning - Unit II 🇺🇸](https://iacopomasi.github.io/AI-ML-Unit-2-2022/)
+  - [Fondamenti di Programmazione 🇮🇹](https://classroom.google.com/u/2/c/Mzk5MjE3OTIzNTEy) (Foundations of coding - python)
+
+### AA20-21
   - [Fondamenti di Programmazione 🇮🇹](fdp) (Foundations of coding - python)
   - [Architettura degli Elaboratori 🇮🇹](ae) (Computer Architecture)
