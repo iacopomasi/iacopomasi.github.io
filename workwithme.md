@@ -23,7 +23,7 @@ E' possibile completare il proprio corso di studi prendendo una tesi
 magistrale su argomenti di ricerca che riguardano computer
 vision, machine learning, deep learning, artificial intelligence e le
 loro relative applicazioni. I temi di ricerca attuali riguardano
-tematiche all'avanguardia come **Advesarial Attacks and Defenses in Deep
+tematiche all'avanguardia come **Adversarial Attacks and Defenses in Deep
 Learning, DeepFake Detection, Face Analysis** oppure risolvere problemi
 fondamentali come **propagare la nozione di struttura
 nella segmentazione, modellare incertezza in Deep Neural Networks
