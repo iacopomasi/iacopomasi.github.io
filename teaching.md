@@ -17,11 +17,11 @@ For updated information please see [the Sapienza dashboard](https://corsidilaure
 
 ### AA22-23
   - Natural Language Processing (NLP) 🇺🇸
-  - Artificial Intelligence and Machine Learning - Unit II 🇺🇸
+  - [Artificial Intelligence and Machine Learning - Unit II 🇺🇸](https://iacopomasi.github.io/AI-ML-Unit-2/)
   - [Fondamenti di Programmazione 🇮🇹](https://classroom.google.com/u/2/c/NTQ3OTYyNzY5NTQ3) (Foundations of coding - python)
 
 ### AA21-22
-  - [Artificial Intelligence and Machine Learning - Unit II 🇺🇸](https://iacopomasi.github.io/AI-ML-Unit-2-2022/)
+  - [Artificial Intelligence and Machine Learning - Unit II 🇺🇸](https://iacopomasi.github.io/AI-ML-Unit-2/)
   - [Fondamenti di Programmazione 🇮🇹](https://classroom.google.com/u/2/c/Mzk5MjE3OTIzNTEy) (Foundations of coding - python)
 
 ### AA20-21
