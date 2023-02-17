@@ -18,9 +18,9 @@ info on applying for PhD positions.
 Please, avoid to write me a directly email since it may takes long
 time to reply.
 
-### Tesi Magistrali (Master Thesis) (in 🇮🇹)
+### Tesi ACSAI e Magistrali (ACSAI and Master Thesis) (in 🇮🇹)
 E' possibile completare il proprio corso di studi prendendo una tesi 
-magistrale su argomenti di ricerca che riguardano computer
+di ACSAI (bachelor in AI) o magistrale su argomenti di ricerca che riguardano computer
 vision, machine learning, deep learning, artificial intelligence e le
 loro relative applicazioni. I temi di ricerca attuali riguardano
 tematiche all'avanguardia come **Adversarial Attacks and Defenses in Deep
