@@ -16,7 +16,7 @@ In this sense, as an educator, I will do my best to ensure that my classes are a
 For updated information please see [the Sapienza dashboard](https://corsidilaurea.uniroma1.it/it/users/iacopomasiuniroma1it).
 
 ### AA22-23
-  - Natural Language Processing (NLP) 🇺🇸
+  - [Natural Language Processing (NLP)](https://github.com/iacopomasi/NLP/) 🇺🇸
   - [Artificial Intelligence and Machine Learning - Unit II 🇺🇸](https://iacopomasi.github.io/AI-ML-Unit-2/)
   - [Fondamenti di Programmazione 🇮🇹](https://classroom.google.com/u/2/c/NTQ3OTYyNzY5NTQ3) (Foundations of coding - python)
 
