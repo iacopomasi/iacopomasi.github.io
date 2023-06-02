@@ -5,3 +5,9 @@
 [submodule "projects/deep_face_recognition"]
 	path = projects/deep_face_recognition
 	url = https://github.com/isi-vista/deep-face-recognition-tutorial.git
+[submodule "projects/Robust_generative"]
+	path = projects/Robust_generative
+	url = https://github.com/senad96/Robust-Generative.git
+[submodule "projects/magic"]
+	path = projects/magic
+	url = https://github.com/mozhdehrouhsedaghat/magic.git
