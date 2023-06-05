@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## AI Research Group @ DI Sapienza <a name="research"></a>
-I am a computer scientist and professor interested in building intelligent machines. I started with **computer vision**, trying to give machines the gift of observing the world through cameras (eyes) like humans do. I am currently expanding my research toward being "contaminated" by different fields such as (in order of importance): **machine learning, vision, natural language processing (NLP), computer graphics, cybersecurity, and the interactions of those**. I also sympathize with the [slow science movement](http://slow-science.org) when applied to science in computer vision and machine learning.
+I am a computer scientist and professor interested in building intelligent machines. I started with **computer vision**, trying to give machines the gift of observing the world through cameras (eyes) as humans do. I am currently expanding my research toward being "contaminated" by different fields such as (in order of importance): **machine learning, vision, natural language processing (NLP), computer graphics, biometrics, cybersecurity, and the interactions of those**. I also sympathize with the [slow science movement](http://slow-science.org) when applied to science in computer vision and machine learning.
 
-**<span style="color:red;">NEWS</span>**: As I am building an international group and lab in Sapienza, if you are a brillant and motivated master student at Sapienza and you seek to puruse a Doctorate of Philosophy (Ph.D.) in AI and Computer Science, [please contact me](workwithme.md)! Possibility of internships during the Ph.D. in the US to Amazon, Meta AI, USC, USC ISI, MSU.
+**<span style="color:red;">NEWS</span>**: As I am building an international group and lab in Sapienza if you are a brilliant and motivated master's student at Sapienza and you seek to pursue a Doctorate of Philosophy (Ph.D.) in AI and Computer Science, [please get in touch with me](workwithme.md)! Possibility of internships during the Ph.D. in the US to Amazon, Meta AI, USC, USC ISI, and MSU.
 
 
 ## Student Supervision
