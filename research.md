@@ -25,7 +25,7 @@ I am a computer scientist and professor interested in building intelligent machi
 		</small>
 	</span></td>
     <td><a href="https://www.linkedin.com/in/mozhdeh-rouhsedaghat/" class="circle">
-	<img height="128" width="128" src="https://media.licdn.com/dms/image/D5603AQGuY34BpOtl2g/profile-displayphoto-shrink_800_800/0/1674153347712?e=1691020800&v=beta&t=9mZi7D1DV3jo7P0vxc4txI-5F_tZHn3D5VKrWncV6BU" alt="Mozhdeh Rouhsedaghat"></a>
+	<img height="128" width="128" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=aOXyE-MAAAAJ&citpid=13" alt="Mozhdeh Rouhsedaghat"></a>
 	<span style="white-space: pre-line">
 		<small><b>Mozhdeh Rouhsedaghat</b>
 		Ph.D. @ USC
