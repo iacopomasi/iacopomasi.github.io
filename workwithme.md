@@ -24,7 +24,7 @@ di ACSAI (bachelor in AI) o magistrale su argomenti di ricerca che riguardano co
 vision, machine learning, deep learning, artificial intelligence e le
 loro relative applicazioni. I temi di ricerca attuali riguardano
 tematiche all'avanguardia come **Adversarial Attacks and Defenses in Deep
-Learning, DeepFake Detection, Face Analysis** oppure risolvere problemi
+Learning, Face Analysis, NLP** oppure risolvere problemi
 fondamentali come **propagare la nozione di struttura
 nella segmentazione, modellare incertezza in Deep Neural Networks
 (DNN) o come riuscire a rendere una predizione di una DNN spiegabile ad
